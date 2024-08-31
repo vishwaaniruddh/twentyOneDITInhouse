@@ -1,0 +1,4 @@
+Total=1
+Plug=1
+Mask=1
+Bad=0

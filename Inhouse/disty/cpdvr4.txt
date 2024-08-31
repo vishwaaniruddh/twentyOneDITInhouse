@@ -1,0 +1,6 @@
+info.Bad=0
+info.IDE=1
+info.Mask=1
+info.Plug=1
+info.Total=1
+info.eSATA=0

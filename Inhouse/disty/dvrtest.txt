@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<hddList version="1.0" xmlns="http://www.hikvision.com/ver20/XMLSchema">
+<hdd version="1.0" xmlns="http://www.hikvision.com/ver20/XMLSchema">
+<id>1</id>
+<hddName>hdda</hddName>
+<hddPath></hddPath>
+<hddType>SATA</hddType>
+<status>ok</status>
+<capacity>1907729</capacity>
+<freeSpace>0</freeSpace>
+<property>RW</property>
+</hdd>
+</hddList>
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMSearchResult version="1.0" xmlns="http://www.hikvision.com/ver20/XMLSchema">
+<searchID>{812f04e0-4089-11a3-9a0c-0305e82c2906}</searchID>
+<responseStatus>true</responseStatus>
+<responseStatusStrg>MORE</responseStatusStrg>
+<numOfMatches>1</numOfMatches>
+<matchList>
+<searchMatchItem>
+<sourceID>{48433233-3735-3130-3937-5803fb087f21}</sourceID>
+<trackID>101</trackID>
+<timeSpan>
+<startTime>2019-08-26T12:00:00Z</startTime>
+<endTime>2019-08-26T12:33:51Z</endTime>
+</timeSpan>
+<mediaSegmentDescriptor>
+<contentType>video</contentType>
+<codecType>H.264-BP</codecType>
+<playbackURI>rtsp://192.168.8.101/Streaming/tracks/101/?starttime=20190826T120000Z&amp;endtime=20190826T123351Z&amp;name=00000000126015400&amp;size=954197696</playbackURI>
+</mediaSegmentDescriptor>
+<metadataMatches>
+<metadataDescriptor>recordType.meta.hikvision.com/timing</metadataDescriptor>
+</metadataMatches>
+</searchMatchItem>
+</matchList>
+</CMSearchResult>
+

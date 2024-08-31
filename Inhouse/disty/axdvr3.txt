@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<hddList version="1.0" xmlns="http://www.hikvision.com/ver20/XMLSchema">
+<hdd version="1.0" xmlns="http://www.hikvision.com/ver20/XMLSchema">
+<id>1</id>
+<hddName>hdda</hddName>
+<hddPath></hddPath>
+<hddType>SATA</hddType>
+<status>ok</status>
+<capacity>953869</capacity>
+<freeSpace>0</freeSpace>
+<property>RW</property>
+</hdd>
+</hddList>
+<?xml version="1.0" encoding="UTF-8" ?>
+<CMSearchResult version="1.0" xmlns="http://www.hikvision.com/ver20/XMLSchema">
+<searchID>{812f04e0-4089-11a3-9a0c-0305e82c2906}</searchID>
+<responseStatus>true</responseStatus>
+<responseStatusStrg>MORE</responseStatusStrg>
+<numOfMatches>1</numOfMatches>
+<matchList>
+<searchMatchItem>
+<sourceID>{48433639-3937-3536-3234-4447ccb84a60}</sourceID>
+<trackID>101</trackID>
+<timeSpan>
+<startTime>2020-12-10T21:11:35Z</startTime>
+<endTime>2020-12-10T22:18:51Z</endTime>
+</timeSpan>
+<mediaSegmentDescriptor>
+<contentType>video</contentType>
+<codecType>H.264-BP</codecType>
+<playbackURI>rtsp://172.55.10.3/Streaming/tracks/101/?starttime=20201210T211135Z&amp;endtime=20201210T221851Z&amp;name=00000000924000001&amp;size=1065682028</playbackURI>
+</mediaSegmentDescriptor>
+<metadataMatches>
+<metadataDescriptor>recordType.meta.hikvision.com/motion</metadataDescriptor>
+</metadataMatches>
+</searchMatchItem>
+</matchList>
+</CMSearchResult>
