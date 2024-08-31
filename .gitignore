@@ -1,0 +1,4 @@
+# Ignore binary files in the Inhouse/bin directory
+Inhouse/bin/ffplay.exe
+Inhouse/bin/ffmpeg.exe
+Inhouse/bin/ffprobe.exe
